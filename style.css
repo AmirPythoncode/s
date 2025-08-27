@@ -1,0 +1,108 @@
+body {
+  font-family: "Inter", sans-serif;
+  background-image: url("https://activeplayer.io/wp-content/uploads/2022/07/PubG-Player-Statistics-Live-Pubg-Player-Count-1.jpg"); 
+  background-size: cover;
+    background-repeat: no-repeat; 
+ 
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.a1{
+  width: 1535px;
+  height: 82px;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 1);
+  gap: 1114px;
+  padding-left: 57px;
+
+}
+.a2{
+ display: flex;
+ gap: 16px;
+ color: white;
+ align-items: center;
+}
+.a3{
+  font-size: 20px;
+}
+.a4{
+width: 162px;
+height: 82px ;
+background-color: orange;
+font-size: 20px;
+
+
+
+
+}
+.b1{
+  background-color: rgba(34, 34, 34, 1);
+  height: 44px;
+  display: flex;
+  gap: 151px;
+  padding-left: 385px;
+  color: white;
+  font-size: 16px;
+  align-items: center;
+}
+.b3{
+  width: 235px;
+  height: 73px;
+  background-color: rgba(241, 169, 0, 1);
+  margin-top: 375px;
+ font-size: 40px;
+ text-align: center;
+
+
+}
+.c1{
+  padding-left: 453px;
+  display: flex;
+  gap: 64px;
+
+}
+.b4{
+  width: 235px;
+  height: 73px;
+  background-color : rgba(0, 0, 0, 1);
+  margin-top: 375px;
+ font-size: 40px;
+ text-align: center;
+ color: white;
+
+
+}
+.d1{
+  background-color: rgba(241, 169, 0, 0.33);
+  margin: 0 auto;
+  font-size: 64px;
+  display: flex;
+  color: white;
+  width: 1000px;
+  height: 202px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 38px;
+}
+.v1{
+    width: 1535px;
+  height: 82px;
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 1);
+  gap: 1154px;
+  padding-left: 57px;
+ margin-top: 137px;
+
+}
+.v2{
+ display: flex;
+ gap: 61px;
+ color: white;
+ align-items: center;
+}
